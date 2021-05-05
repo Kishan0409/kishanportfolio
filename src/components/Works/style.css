@@ -1,0 +1,19 @@
+  
+.works {
+    flex-grow: 1;
+  }
+  
+  .works h1 {
+    margin-bottom: 20px;
+  }
+ a {
+   cursor: pointer;
+   text-decoration:none;
+   color:darkred;
+  
+ }
+ a:hover{
+  text-decoration: underline;
+  
+ 
+ }
